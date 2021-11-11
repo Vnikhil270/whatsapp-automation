@@ -1,6 +1,6 @@
 # web-automation
 # overview
-Everyone wants to be as smart as machine and robots, so they create softwares which makes machine to do their such work.
+Everyone wants to be as smart as machine and robots, so they created software's which makes machine to do their such work.
 whatsapp-automation is a such software which can easily operate the whatsapp web in your webbrowser and can do whatever you want like such writing a message and sending it to the perticular group or group of peoples, not only just sending message it can read any of the message for you, can send images, document files etc.
 
 So now the question arrises why did I started this project, whats the main idea behind it, what are the problems I had faced and so and so....
